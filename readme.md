@@ -1,4 +1,4 @@
-# C++ Assembly Line Simulation Project
+Assembly Line Simulator
 
 ## Overview
 This repository hosts a comprehensive C++ project developed during an advanced Object-Oriented Programming course. The project simulates an assembly line, highlighting intricate OOP concepts and demonstrating proficiency in C++ programming.
